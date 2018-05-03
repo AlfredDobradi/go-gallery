@@ -1,0 +1,14 @@
+hash: 68f2dd1724e4619f13b418a6d160e9657e98be372f55b19d6509060534ad9855
+updated: 2018-05-03T11:19:24.998939134+01:00
+imports:
+- name: github.com/alfreddobradi/kit
+  version: ef2aaa5d80bc582f35bf536d4c3bf0ab29b1b208
+- name: github.com/AlfredDobradi/kit
+  version: ef2aaa5d80bc582f35bf536d4c3bf0ab29b1b208
+  subpackages:
+  - logging
+- name: github.com/op/go-logging
+  version: b2cb9fa56473e98db8caba80237377e83fe44db5
+- name: github.com/spf13/cobra
+  version: a1f051bc3eba734da4772d60e2d677f47cf93ef4
+testImports: []

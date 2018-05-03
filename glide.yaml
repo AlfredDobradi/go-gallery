@@ -1,0 +1,6 @@
+package: github.com/alfreddobradi/go-gallery
+import:
+- package: github.com/alfreddobradi/kit
+  version: ^1.3.0
+- package: github.com/spf13/cobra
+  version: ^0.0.2
